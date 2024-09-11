@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.3",
+    "express": "^4.20.0",
     "validate-order": "file:./validate-order",
     "payment": "file:./payment",
     "restaurant-approval": "file:./restaurant-approval",
