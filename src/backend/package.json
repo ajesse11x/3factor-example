@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.21.0",
     "validate-order": "file:./validate-order",
     "payment": "file:./payment",
     "restaurant-approval": "file:./restaurant-approval",
